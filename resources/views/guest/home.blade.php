@@ -48,6 +48,9 @@
             </div>
             @endif
           </nav>
+          <div id="root"></div>
 
+
+          <script src="{{asset('js/front.js')}}" charset="utf-8"></script>
     </body>
 </html>
